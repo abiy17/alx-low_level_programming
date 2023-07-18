@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- *is written by abiy 
+ * is written by abiy
  * Return: 0
  */
 
@@ -18,3 +18,4 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
+
